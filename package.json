@@ -11,7 +11,10 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.1",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.6.5",
+    "sass": "^1.64.2",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vuetify": "^3.3.11"
   },
   "dependencies": {
     "@nuxt/bridge": "^0.10.1"
