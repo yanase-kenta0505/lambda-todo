@@ -1,7 +1,5 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Page: foo
-  </div>
+  <h1>hello</h1>
 </template>
